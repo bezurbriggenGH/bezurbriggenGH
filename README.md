@@ -7,6 +7,8 @@
 <br><br>
 
 - :school: I am a software development student.
+- :nerd_face: Always `learning new things`.
 -  💬 Contact me...[workbenzurb@gmail.com](workbenzurb@gmail.com).
+
 
 <br>
